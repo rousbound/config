@@ -1,0 +1,1112 @@
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 16:Main: 6
+i3-msg "workspace 16:Main: 6; focus output DP-3, workspace 116:Main: 16; focus output HDMI-3, workspace 16:Main: 6; "
+Entered script....!
+Method: workspace
+workspace 16:Main: 6
+i3-msg "workspace 16:Main: 6; focus output DP-3, workspace 116:Main: 16; focus output HDMI-3, workspace 16:Main: 6; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 16:Main: 6
+i3-msg "workspace 16:Main: 6; focus output DP-3, workspace 116:Main: 16; focus output HDMI-3, workspace 16:Main: 6; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 112:Main: 12
+i3-msg "workspace 112:Main: 12; focus output DP-3, workspace 1112:Main: 112; focus output HDMI-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 113:Main: 13
+i3-msg "workspace 113:Main: 13; focus output DP-3, workspace 1113:Main: 113; focus output HDMI-3, workspace 113:Main: 13; "
+Entered script....!
+Method: workspace
+workspace 114:Main: 14
+i3-msg "workspace 114:Main: 14; focus output DP-3, workspace 1114:Main: 114; focus output HDMI-3, workspace 114:Main: 14; "
+Entered script....!
+Method: workspace
+workspace 115:Main: 15
+i3-msg "workspace 115:Main: 15; focus output DP-3, workspace 1115:Main: 115; focus output HDMI-3, workspace 115:Main: 15; "
+Entered script....!
+Method: workspace
+workspace 115:Main: 15
+i3-msg "workspace 115:Main: 15; focus output DP-3, workspace 1115:Main: 115; focus output HDMI-3, workspace 115:Main: 15; "
+Entered script....!
+Method: workspace
+workspace 114:Main: 14
+i3-msg "workspace 114:Main: 14; focus output DP-3, workspace 1114:Main: 114; focus output HDMI-3, workspace 114:Main: 14; "
+Entered script....!
+Method: workspace
+workspace 113:Main: 13
+i3-msg "workspace 113:Main: 13; focus output DP-3, workspace 1113:Main: 113; focus output HDMI-3, workspace 113:Main: 13; "
+Entered script....!
+Method: workspace
+workspace 112:Main: 12
+i3-msg "workspace 112:Main: 12; focus output DP-3, workspace 1112:Main: 112; focus output HDMI-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 111:Home 2st
+i3-msg "workspace 111:Home 2st; focus output DP-3, workspace 1111:Main: 111; focus output HDMI-3, workspace 111:Home 2st; "
+Entered script....!
+Method: workspace
+workspace 111:Home 2st
+i3-msg "workspace 111:Home 2st; focus output DP-3, workspace 1111:Main: 111; focus output HDMI-3, workspace 111:Home 2st; "
+Entered script....!
+Method: workspace
+workspace 112:Main: 12
+i3-msg "workspace 112:Main: 12; focus output DP-3, workspace 1112:Main: 112; focus output HDMI-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 112:Main: 12
+i3-msg "workspace 112:Main: 12; focus output DP-3, workspace 1112:Main: 112; focus output HDMI-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 113:Main: 13
+i3-msg "workspace 113:Main: 13; focus output DP-3, workspace 1113:Main: 113; focus output HDMI-3, workspace 113:Main: 13; "
+Entered script....!
+Method: workspace
+workspace 111:Home 2st
+i3-msg "workspace 111:Home 2st; focus output DP-3, workspace 1111:Main: 111; focus output HDMI-3, workspace 111:Home 2st; "
+Entered script....!
+Method: workspace
+workspace 111:Home 2st
+i3-msg "workspace 111:Home 2st; focus output DP-3, workspace 1111:Main: 111; focus output HDMI-3, workspace 111:Home 2st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; focus output HDMI-3, workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; focus output HDMI-3, workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; focus output HDMI-3, workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; focus output HDMI-3, workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; focus output HDMI-3, workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; focus output DP-3, workspace 115:Main: 15; "
+Entered script....!
+Method: workspace
+workspace 16:Main: 6
+i3-msg "workspace 16:Main: 6; focus output DP-3, workspace 116:Main: 16; "
+Entered script....!
+Method: workspace
+workspace 17:Main: 7
+i3-msg "workspace 17:Main: 7; focus output DP-3, workspace 117:Main: 17; "
+Entered script....!
+Method: workspace
+workspace 18:Main: 8
+i3-msg "workspace 18:Main: 8; focus output DP-3, workspace 118:Main: 18; "
+Entered script....!
+Method: workspace
+workspace 110:Main: 10
+i3-msg "workspace 110:Main: 10; focus output DP-3, workspace 1110:Main: 110; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; focus output DP-3, workspace 114:Main: 14; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; focus output DP-3, workspace 113:Main: 13; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; focus output DP-3, workspace 112:Main: 12; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; focus output DP-3, workspace 111:Home 2st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 112:Main: 12; workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; workspace 113:Main: 13; workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; workspace 114:Main: 14; workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; workspace 115:Main: 15; workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; workspace 113:Main: 13; workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; workspace 115:Main: 15; workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; workspace 114:Main: 14; workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; workspace 115:Main: 15; workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 16:Main: 6
+i3-msg "workspace 16:Main: 6; workspace 116:Main: 16; workspace 16:Main: 6; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; workspace 114:Main: 14; workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; workspace 113:Main: 13; workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 112:Main: 12; workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 112:Main: 12; workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; workspace 115:Main: 15; workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; workspace 115:Main: 15; workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; workspace 114:Main: 14; workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 16:Main: 6
+i3-msg "workspace 16:Main: 6; workspace 116:Main: 16; workspace 16:Main: 6; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; workspace 114:Main: 14; workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 16:Main: 6
+i3-msg "workspace 16:Main: 6; workspace 116:Main: 16; workspace 16:Main: 6; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; workspace 115:Main: 15; workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 16:Main: 6
+i3-msg "workspace 16:Main: 6; workspace 116:Main: 16; workspace 16:Main: 6; "
+Entered script....!
+Method: workspace
+workspace 17:Main: 7
+i3-msg "workspace 17:Main: 7; workspace 117:Main: 17; workspace 17:Main: 7; "
+Entered script....!
+Method: workspace
+workspace 18:Main: 8
+i3-msg "workspace 18:Main: 8; workspace 118:Main: 18; workspace 18:Main: 8; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; workspace 115:Main: 15; workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 16:Main: 6
+i3-msg "workspace 16:Main: 6; workspace 116:Main: 16; workspace 16:Main: 6; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 112:Main: 12; workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; workspace 113:Main: 13; workspace 13:Main: 3; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; workspace 114:Main: 14; workspace 14:Main: 4; "
+Entered script....!
+Method: workspace
+workspace 15:Main: 5
+i3-msg "workspace 15:Main: 5; workspace 115:Main: 15; workspace 15:Main: 5; "
+Entered script....!
+Method: workspace
+workspace 16:Main: 6
+i3-msg "workspace 16:Main: 6; workspace 116:Main: 16; workspace 16:Main: 6; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 112:Main: 12; workspace 12:Main: 2; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "

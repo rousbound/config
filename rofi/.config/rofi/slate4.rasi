@@ -1,0 +1,65 @@
+* {
+  background-color: transparent;
+  border-color: #ffffff;
+  text-color: #ffffff;
+  spacing: 0;
+  width: 812px;
+  height: 512px;
+  font: "cmunci 14";
+  underline: none;
+}
+
+window {
+  transparency: "real";
+  fullscreen: true;
+  background-color: #00000066;
+}
+
+inputbar {
+  border: 0 0 0px 0;
+  children: [prompt,entry];
+}
+
+mainbox {
+  padding: 30% 30%;
+}
+
+prompt {
+  padding: 16px;
+  border: 0 0px 0 0;
+  background-color: #000000aa;
+}
+
+textbox {
+  border: 1px 1px 1px 0;
+  padding: 8px 16px;
+}
+
+entry {
+  padding: 16px;
+}
+
+listview {
+  cycle: false;
+  margin: 0 0 -1px 0;
+  scrollbar: false;
+  background-color: #000000aa;
+}
+
+element {
+  border: 0 0 1px 0;
+  padding: 16px;
+}
+
+element-text {
+	    background-color: inherit;
+		    text-color:       inherit;
+}
+
+element-icon {
+	    background-color: inherit;
+}
+element selected {
+  background-color: #ffffff;
+  text-color: #000000;
+}

@@ -1110,3 +1110,453 @@ Entered script....!
 Method: workspace
 workspace 11:Home 1st
 i3-msg "workspace 11:Home 1st; workspace 111:Home 2st; workspace 11:Home 1st; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 122:Main: 22; focus output DP-1; workspace 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 122:Main: 22; focus output DP-1; workspace 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; workspace 123:Main: 23; focus output DP-1; workspace 113:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 14:Main: 4
+i3-msg "workspace 14:Main: 4; workspace 124:Main: 24; focus output DP-1; workspace 114:Main: 14; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; workspace 123:Main: 23; focus output DP-1; workspace 113:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 122:Main: 22; focus output DP-1; workspace 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 122:Main: 22; focus output DP-1; workspace 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 122:Main: 22; focus output DP-1; workspace 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; workspace 123:Main: 23; focus output DP-1; workspace 113:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 122:Main: 22; focus output DP-1; workspace 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; workspace 123:Main: 23; focus output DP-1; workspace 113:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 122:Main: 22; focus output DP-1; workspace 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; workspace 123:Main: 23; focus output DP-1; workspace 113:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 122:Main: 22; focus output DP-1; workspace 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: move_window
+move window between workspaces in current meta: 1
+i3-msg 'move container to workspace 13:Main: 3'
+Entered script....!
+Method: move_window
+move window between workspaces in current meta: 1
+i3-msg 'move container to workspace 13:Main: 3'
+Entered script....!
+Method: workspace
+workspace 13:Main: 3
+i3-msg "workspace 13:Main: 3; workspace 123:Main: 23; focus output DP-1; workspace 113:Main: 13; focus output DP-1; "
+Entered script....!
+Method: move_window
+move window between workspaces in current meta: 1
+i3-msg 'move container to workspace 113:Main: 13'
+Entered script....!
+Method: workspace
+workspace 113:Main: 13
+i3-msg "workspace 113:Main: 13; workspace 1213:Main: 213; focus output DP-1; workspace 1113:Main: 113; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 122:Main: 22; focus output DP-1; workspace 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 12:Main: 2
+i3-msg "workspace 12:Main: 2; workspace 122:Main: 22; focus output DP-1; workspace 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace 11:Home 1st
+i3-msg "workspace 11:Home 1st; workspace 121:Main: 21; focus output DP-1; workspace 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 12:Main: 2
+i3-msg "workspace number 12:Main: 2; workspace number 122:Main: 22; focus output DP-1; workspace number 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 11:Home 1st
+i3-msg "workspace number 11:Home 1st; workspace number 121:Main: 21; focus output DP-1; workspace number 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 12:Main: 2
+i3-msg "workspace number 12:Main: 2; workspace number 122:Main: 22; focus output DP-1; workspace number 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 12:Main: 2
+i3-msg "workspace number 12:Main: 2; workspace number 122:Main: 22; focus output DP-1; workspace number 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 13:Main: 3
+i3-msg "workspace number 13:Main: 3; workspace number 123:Main: 23; focus output DP-1; workspace number 113:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 11:Home 1st
+i3-msg "workspace number 11:Home 1st; workspace number 121:Main: 21; focus output DP-1; workspace number 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 12:Main: 2
+i3-msg "workspace number 12:Main: 2; workspace number 122:Main: 22; focus output DP-1; workspace number 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 13:Main: 3
+i3-msg "workspace number 13:Main: 3; workspace number 123:Main: 23; focus output DP-1; workspace number 113:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 12:Main: 2
+i3-msg "workspace number 12:Main: 2; workspace number 122:Main: 22; focus output DP-1; workspace number 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 12:Main: 2
+i3-msg "workspace number 12:Main: 2; workspace number 122:Main: 22; focus output DP-1; workspace number 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 13:Main: 3
+i3-msg "workspace number 13:Main: 3; workspace number 123:Main: 23; focus output DP-1; workspace number 113:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 11:Home 1st
+i3-msg "workspace number 11:Home 1st; workspace number 121:Main: 21; focus output DP-1; workspace number 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 12:Main: 2
+i3-msg "workspace number 12:Main: 2; workspace number 122:Main: 22; focus output DP-1; workspace number 112:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+Entered script....!
+Method: workspace
+Entered script....!
+Method: workspace
+Entered script....!
+Method: workspace
+Entered script....!
+Method: workspace
+Entered script....!
+Method: workspace
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 011:Home 1st
+i3-msg "workspace number 011:Home 1st; workspace number 0121:Home 3st; focus output DP-1; workspace number 0111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+Entered script....!
+Method: workspace
+workspace number 11:Home 1st
+i3-msg "workspace number 11:Home 1st; workspace number 121:Home 3st; focus output DP-1; workspace number 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 11:Home 1st
+i3-msg "workspace number 11:Home 1st; workspace number 121:Home 3st; focus output DP-1; workspace number 111:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Home 1st
+i3-msg "workspace number 2:Home 1st; workspace number 22:Home 3st; focus output DP-1; workspace number 12:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 2
+i3-msg "workspace number 3:Main: 2; workspace number 23:Main: 22; focus output DP-1; workspace number 13:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 4:Main: 3
+i3-msg "workspace number 4:Main: 3; workspace number 24:Main: 23; focus output DP-1; workspace number 14:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 2
+i3-msg "workspace number 3:Main: 2; workspace number 23:Main: 22; focus output DP-1; workspace number 13:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Home 1st
+i3-msg "workspace number 2:Home 1st; workspace number 22:Home 3st; focus output DP-1; workspace number 12:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Home 1st
+i3-msg "workspace number 2:Home 1st; workspace number 22:Home 3st; focus output DP-1; workspace number 12:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Home 1st
+i3-msg "workspace number 2:Home 1st; workspace number 22:Home 3st; focus output DP-1; workspace number 12:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3
+i3-msg "workspace number 3; workspace number 23; focus output DP-1; workspace number 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2
+i3-msg "workspace number 2; workspace number 22; focus output DP-1; workspace number 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3
+i3-msg "workspace number 3; workspace number 23; focus output DP-1; workspace number 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 4
+i3-msg "workspace number 4; workspace number 24; focus output DP-1; workspace number 14; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3
+i3-msg "workspace number 3; workspace number 23; focus output DP-1; workspace number 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2
+i3-msg "workspace number 2; workspace number 22; focus output DP-1; workspace number 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3
+i3-msg "workspace number 3; workspace number 23; focus output DP-1; workspace number 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 2
+i3-msg "workspace number 3:Main: 2; workspace number 23:Main: 22; focus output DP-1; workspace number 13:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Home 1st
+i3-msg "workspace number 2:Home 1st; workspace number 22:Home 3st; focus output DP-1; workspace number 12:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 2
+i3-msg "workspace number 3:Main: 2; workspace number 23:Main: 22; focus output DP-1; workspace number 13:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Home 1st
+i3-msg "workspace number 2:Home 1st; workspace number 22:Home 3st; focus output DP-1; workspace number 12:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 2
+i3-msg "workspace number 3:Main: 2; workspace number 23:Main: 22; focus output DP-1; workspace number 13:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 4:Main: 3
+i3-msg "workspace number 4:Main: 3; workspace number 24:Main: 23; focus output DP-1; workspace number 14:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 2
+i3-msg "workspace number 3:Main: 2; workspace number 23:Main: 22; focus output DP-1; workspace number 13:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Home 1st
+i3-msg "workspace number 2:Home 1st; workspace number 22:Home 3st; focus output DP-1; workspace number 12:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 1:Home 1st
+i3-msg "workspace number 1:Home 1st; workspace number 21:Home 3st; focus output DP-1; workspace number 11:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 3
+i3-msg "workspace number 3:Main: 3; workspace number 23:Main: 23; focus output DP-1; workspace number 13:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 3
+i3-msg "workspace number 3:Main: 3; workspace number 23:Main: 23; focus output DP-1; workspace number 13:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 4:Main: 4
+i3-msg "workspace number 4:Main: 4; workspace number 24:Main: 24; focus output DP-1; workspace number 14:Main: 14; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 3
+i3-msg "workspace number 3:Main: 3; workspace number 23:Main: 23; focus output DP-1; workspace number 13:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 4:Main: 4
+i3-msg "workspace number 4:Main: 4; workspace number 24:Main: 24; focus output DP-1; workspace number 14:Main: 14; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 3
+i3-msg "workspace number 3:Main: 3; workspace number 23:Main: 23; focus output DP-1; workspace number 13:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Main: 2
+i3-msg "workspace number 2:Main: 2; workspace number 22:Main: 22; focus output DP-1; workspace number 12:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 3
+i3-msg "workspace number 3:Main: 3; workspace number 23:Main: 23; focus output DP-1; workspace number 13:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 4:Main: 4
+i3-msg "workspace number 4:Main: 4; workspace number 24:Main: 24; focus output DP-1; workspace number 14:Main: 14; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 5:Main: 5
+i3-msg "workspace number 5:Main: 5; workspace number 25:Main: 25; focus output DP-1; workspace number 15:Main: 15; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 3:Main: 3
+i3-msg "workspace number 3:Main: 3; workspace number 23:Main: 23; focus output DP-1; workspace number 13:Main: 13; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Main: 2
+i3-msg "workspace number 2:Main: 2; workspace number 22:Main: 22; focus output DP-1; workspace number 12:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 1:Home 1st
+i3-msg "workspace number 1:Home 1st; workspace number 21:Home 3st; focus output DP-1; workspace number 11:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Main: 2
+i3-msg "workspace number 2:Main: 2; workspace number 22:Main: 22; focus output DP-1; workspace number 12:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 1:Home 1st
+i3-msg "workspace number 1:Home 1st; workspace number 21:Home 3st; focus output DP-1; workspace number 11:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 1:Home 1st
+i3-msg "workspace number 1:Home 1st; workspace number 21:Home 3st; focus output DP-1; workspace number 11:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Main: 2
+i3-msg "workspace number 2:Main: 2; workspace number 22:Main: 22; focus output DP-1; workspace number 12:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 1:Home 1st
+i3-msg "workspace number 1:Home 1st; workspace number 21:Home 3st; focus output DP-1; workspace number 11:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 1:Home 1st
+i3-msg "workspace number 1:Home 1st; workspace number 21:Home 3st; focus output DP-1; workspace number 11:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 1:Home 1st
+i3-msg "workspace number 1:Home 1st; workspace number 21:Home 3st; focus output DP-1; workspace number 11:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 1:Home 1st
+i3-msg "workspace number 1:Home 1st; workspace number 21:Home 3st; focus output DP-1; workspace number 11:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 1:Home 1st
+i3-msg "workspace number 1:Home 1st; workspace number 21:Home 3st; focus output DP-1; workspace number 11:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Main: 2
+i3-msg "workspace number 2:Main: 2; workspace number 22:Main: 22; focus output DP-1; workspace number 12:Main: 12; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 1:Home 1st
+i3-msg "workspace number 1:Home 1st; workspace number 21:Home 3st; focus output DP-1; workspace number 11:Home 2st; focus output DP-1; "
+Entered script....!
+Method: workspace
+workspace number 2:Main: 1
+i3-msg "workspace number 2:Main: 1; workspace number 22:Main: 1; focus output DP-1; workspace number 12:Main: 1; focus output DP-1; "

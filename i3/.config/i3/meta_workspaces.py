@@ -54,8 +54,9 @@ def print(*args, **kwargs):
 
 print("Entered script....!")
 
-MON1 = "HDMI-3"
-MON2 = "DP-3"
+MON1 = "DP-1"
+MON2 = "HDMI-3"
+MON3 = "DP-3"
 # MON3 = "DVI-I-1-1"
 def check_ws_empty(wsnum):
     cmd = subprocess.Popen("i3-msg -t get_workspaces", stdout=subprocess.PIPE, shell=True)
@@ -199,16 +200,23 @@ if not os.path.isfile(wsstr):
 
 def fWorkspace(meta, workspace):
     metaDict = {"1": "Main", "2": "Job"}
+    expoentDict = {"1": "", "2": "²", "3":"³"}
     if workspace == "1":
         workspaceLabel = "Home 1st"
     elif workspace == "11":
         workspaceLabel = "Home 2st"
-    # elif workspace == "21":
-        # workspaceLabel = "Home 3st"
+    elif workspace == "21":
+        workspaceLabel = "Home 3st"
     else:
-        workspaceLabel = metaDict[meta]+": "+workspace
+        expoentLabel = expoentDict[meta]
+        metaLabel  = metaDict[meta]
+        workspaceLabel = f"{metaLabel}{expoentLabel}: {meta}"
 
-    base = f"{meta}{workspace}:{workspaceLabel}"
+    delta = (int(meta)-1) * 30 # Each Meta workspace is comprised by 30 workspaces
+    
+    workspaceIndex = str(delta + int(workspace))
+    #base = f"{workspaceIndex}:{workspaceLabel}"
+    base = f"{workspaceIndex}:{workspaceLabel}"
     return base
 
 def i3msg(cmds):
@@ -217,23 +225,22 @@ def i3msg(cmds):
         exe_cmd += cmd + "; "
     exe_cmd += "\""
     print(exe_cmd)
-    os.system(exe_cmd)
+    # os.system(exe_cmd)
 
 
 def switch_expanded_workspace(meta, workspace):
 
     workspace_main = fWorkspace(meta, workspace)
     workspace_secondary = fWorkspace(meta, str(1)+workspace)
-    cmd_switch = "workspace {}".format(workspace_main)
-    cmd_switch2 = "workspace {}".format(workspace_secondary)
+    workspace_tertiary = fWorkspace(meta, str(2)+workspace)
+    cmd_switch = "workspace number {}".format(workspace_main)
+    cmd_switch3 = "workspace number {}".format(workspace_tertiary)
+    cmd_focus = "focus output {}".format(MON1)
+    cmd_switch2 = "workspace number {}".format(workspace_secondary)
+    cmd_focus = "focus output {}".format(MON1)
     print(cmd_switch)
-    # cmd_focus_other_monitor = "focus output {}, workspace {}".format(MON2, workspace_secondary)
-    # cmd_focus_main_monitor = "focus output {}, workspace {}".format(MON1, workspace_main)
 
-    i3msg([cmd_switch, cmd_switch2, cmd_switch])
-    # i3msg([cmd_focus_other_monitor])
-    # i3msg([cmd_focus_main_monitor])
-    # i3msg([cmd_switch])
+    i3msg([cmd_switch, cmd_switch3, cmd_focus, cmd_switch2, cmd_focus])
 
 if args.switch_meta == True:
     print("Method: Switch Meta")

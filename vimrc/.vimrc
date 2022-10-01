@@ -25,7 +25,7 @@ let g:UltiSnipsJumpForwardTrigger = '<tab>'
 let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
 let g:UltiSnipsSnippetDirectories=["mySnippets"]
 call plug#end()
-":source /home/geraldo/.vim/matchit.vim
+:source /home/geraldo/.vim/matchit.vim
 
 "-------- FUNCTIONS ------
 command Hardcopy call Hardcopy()
@@ -61,10 +61,7 @@ endfunction
 filetype plugin on
 runtime macros/matchit.vim
 autocmd filetype css setlocal equalprg=csstidy\ -\ --silent=true
-autocmd BufWritePost *.tex silent! execute "!smartLatex % " | redraw!
-autocmd BufWritePost *.lua silent! execute "!scpDeployAlfa % " | redraw!
-autocmd BufWritePost *.lp silent! execute "!scpDeployAlfa % " | redraw!
-autocmd BufWritePost *.sql silent! execute "!scpDeployAlfa % " | redraw!
+autocmd BufWritePost *.tex silent! execute "!smartLatex % >/dev/null 2>&1" | redraw!
 autocmd BufEnter *.tex silent! execute ":set tw=80" | redraw!
 autocmd BufWritePost *.md silent! execute "!quickMd % >/dev/null 2>&1" | redraw!
 autocmd BufWritePost *.ly silent! execute "!lilypond % >/dev/null 2>&1" | redraw!

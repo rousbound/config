@@ -15,10 +15,12 @@ parser.add_argument("-w", "--workspace",    help="Workspace flag")
 parser.add_argument("-mw","--move_window",  help="Move flag")
 parser.add_argument("-r", "--rename",       help="Rename Meta Workspace")
 parser.add_argument("-d", "--delete",       help="Delete current Meta Workspace")
+parser.add_argument("-mn", "--monitor",       help="Monitor")
 parser.add_argument("-sm", "--switch_meta", action='store_true', help="Switch to next Meta Workspace")
 #TODO add -d / --delete arg in order to nuke current workspace (if empty!)
 args = parser.parse_args()
 
+print("check log.txt")
 # Now populate current meta-workspace info for given $HOST$SDISPLAY
 hostname    = os.environ['USER']
 display     = os.environ['DISPLAY']
@@ -198,25 +200,31 @@ if not os.path.isfile(wsstr):
         out.write("\n")
         out.close()
 
-def fWorkspace(meta, workspace):
-    metaDict = {"1": "Main", "2": "Job"}
-    expoentDict = {"1": "", "2": "²", "3":"³"}
-    if workspace == "1":
-        workspaceLabel = "Home 1st"
-    elif workspace == "11":
-        workspaceLabel = "Home 2st"
-    elif workspace == "21":
-        workspaceLabel = "Home 3st"
-    else:
-        expoentLabel = expoentDict[meta]
-        metaLabel  = metaDict[meta]
-        workspaceLabel = f"{metaLabel}{expoentLabel}: {meta}"
+def fWorkspace(meta, workspace, monitor):
+    monitor = int(monitor)
+    workspace = int(workspace)
+    meta = int(meta)
+    metaDict = {1: "Main", 2: "Job"}
+    expoentDict = {1: "¹", 2: "²", 3:"³"}
 
-    delta = (int(meta)-1) * 30 # Each Meta workspace is comprised by 30 workspaces
+    if workspace == 1:
+        if monitor == 1:
+            workspaceLabel = "Home 1st"
+        elif monitor == 2:
+            workspaceLabel = "Home 2st"
+        elif monitor == 3:
+            workspaceLabel = "Home 3st"
+    else:
+        expoentLabel = expoentDict[monitor]
+        metaLabel  = metaDict[meta]
+        workspaceLabel = f"{metaLabel} {workspace}{expoentLabel}"
+
     
-    workspaceIndex = str(delta + int(workspace))
-    #base = f"{workspaceIndex}:{workspaceLabel}"
+    meta_delta = (meta-1) * 30
+    monitor_delta = (monitor-1) * 10
+    workspaceIndex = meta_delta + monitor_delta + workspace
     base = f"{workspaceIndex}:{workspaceLabel}"
+    print("Exit...")
     return base
 
 def i3msg(cmds):
@@ -225,14 +233,14 @@ def i3msg(cmds):
         exe_cmd += cmd + "; "
     exe_cmd += "\""
     print(exe_cmd)
-    # os.system(exe_cmd)
+    os.system(exe_cmd)
 
 
 def switch_expanded_workspace(meta, workspace):
 
-    workspace_main = fWorkspace(meta, workspace)
-    workspace_secondary = fWorkspace(meta, str(1)+workspace)
-    workspace_tertiary = fWorkspace(meta, str(2)+workspace)
+    workspace_main = fWorkspace(meta, workspace, 1)
+    workspace_secondary = fWorkspace(meta, workspace, 2)
+    workspace_tertiary = fWorkspace(meta, workspace, 3)
     cmd_switch = "workspace number {}".format(workspace_main)
     cmd_switch3 = "workspace number {}".format(workspace_tertiary)
     cmd_focus = "focus output {}".format(MON1)
@@ -241,6 +249,11 @@ def switch_expanded_workspace(meta, workspace):
     print(cmd_switch)
 
     i3msg([cmd_switch, cmd_switch3, cmd_focus, cmd_switch2, cmd_focus])
+
+def switch_workspace(meta, workspace, monitor):
+    workspace = fWorkspace(meta, workspace, monitor)
+    cmd_switch = "workspace number {}".format(workspace)
+    i3msg([cmd_switch])
 
 if args.switch_meta == True:
     print("Method: Switch Meta")
@@ -266,7 +279,7 @@ if args.meta is not None:
     readWsList(meta,0,0)
     #Now write this out to cur_ws, then write meta
     writeMeta(meta)
-    switch_expanded_workspace(meta, "1")
+    # switch_expanded_workspace("1", "1")
 
 #Change workspace within meta workspace
 if args.workspace is not None:
@@ -276,16 +289,21 @@ if args.workspace is not None:
     if workspace == "1":
         switch_expanded_workspace("1", "1")
     else:
-        switch_expanded_workspace(meta, workspace)
+        if args.monitor == "1":
+            switch_expanded_workspace(meta, workspace)
+        else:
+            switch_workspace(meta, workspace, args.monitor)
+
 
 #Move window in between workspaces within meta workspace
 if args.move_window is not None:
     print("Method: move_window")
     meta = readMeta()
     print("move window between workspaces in current meta: " + meta)
+    print("To workspace:", args.move_window, " on monitor: ", args.monitor)
     workspace = args.move_window
-    cmd = "i3-msg 'move container to workspace {}'".format(fWorkspace(meta, workspace))
-    print(cmd)
+    cmd = "i3-msg 'move container to workspace {}'".format(fWorkspace(meta, workspace, args.monitor))
+    print("CMD:", cmd)
     os.system(cmd)
 
 #Change meta workspace

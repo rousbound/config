@@ -61,8 +61,8 @@ font-0 = "cmunci:size=10:antialias=true;2"
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
 
-modules-left = bspwm i3
-modules-center = mpd
+modules-left = bspwm i3 metaworkspace
+modules-center = mpd 
 modules-right = filesystem xbacklight alsa pulseaudio memory cpu wlan eth battery temperature date powermenu
 
 tray-position = right
@@ -146,14 +146,6 @@ label-urgent-padding = 2
 
 ; Separator in between workspaces
 ; label-separator = |
-
-[module/mytest]
-type = custom/text
-content = "ok ok oko k"
-
-[module/test2]
-type = custom/script
-exec = updateMetaWorkspaceLabel
 
 [module/mpd]
 type = internal/mpd
@@ -366,6 +358,15 @@ menu-2-0-exec = sudo poweroff
 menu-2-1 = cancel
 menu-2-1-exec = menu-open-0
 
+[module/metaworkspace]
+type = custom/script
+exec = get_meta_workspace
+interval = 0
+format-underline = #000000
+format-prefix-foreground = #000000
+tail = true
+
+
 [settings]
 screenchange-reload = true
 ;compositing-background = xor
@@ -379,3 +380,4 @@ margin-top = 0
 margin-bottom = 0
 
 ; vim:ft=dosini
+

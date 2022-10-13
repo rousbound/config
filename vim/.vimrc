@@ -63,8 +63,10 @@ runtime macros/matchit.vim
 autocmd filetype css setlocal equalprg=csstidy\ -\ --silent=true
 autocmd BufWritePost *.tex silent! execute "!smartLatex % " | redraw!
 autocmd BufWritePost *.lua silent! execute "!scpDeployAlfa % " | redraw!
+autocmd BufWritePost *.js silent! execute "!scpDeployAlfa % " | redraw!
 autocmd BufWritePost *.lp silent! execute "!scpDeployAlfa % " | redraw!
 autocmd BufWritePost *.sql silent! execute "!scpDeployAlfa % " | redraw!
+autocmd BufWritePost *.sh silent! execute "!scpDeployAlfa % " | redraw!
 autocmd BufEnter *.tex silent! execute ":set tw=80" | redraw!
 autocmd BufWritePost *.md silent! execute "!quickMd % >/dev/null 2>&1" | redraw!
 autocmd BufWritePost *.ly silent! execute "!lilypond % >/dev/null 2>&1" | redraw!

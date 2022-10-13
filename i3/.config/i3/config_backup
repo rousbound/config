@@ -128,105 +128,38 @@ set $monitor1 "DP-1"
 set $monitor2 "HDMI-3"
 set $monitor3 "DP-3"
 
-# Single Meta Workspace
-#set $workspace1-1-1 "1:1. Home"
-#set $workspace1-1-2 "2:2. Second"
-#set $workspace1-1-3 "3:3. Third"
-#set $workspace1-1-4 "4:4. Fourth"
-#set $workspace1-1-5 "5:5. Fifth"
-#set $workspace1-1-6 "6:6. Sixth"
-#set $workspace1-1-7 "7:7. Seventh"
-#set $workspace1-1-8 "8:8. Eight"
-#set $workspace1-1-9 "9:9. Ninth"
-#set $workspace1-1-0 "10:10. Void"
+set $workspace1-1 "1:1. Home"
+set $workspace2-1 "2:2. Second"
+set $workspace3-1 "3:3. Third"
+set $workspace4-1 "4:4. Fourth"
+set $workspace5-1 "5:5. Fifth"
+set $workspace6-1 "6:6. Sixth"
+set $workspace7-1 "7:7. Seventh"
+set $workspace8-1 "8:8. Eight"
+set $workspace9-1 "9:9. Ninth"
+set $workspace0-1 "10:10. Void"
 
-#set $workspace1-2-1 "11:1. Home²"                                          
-#set $workspace1-2-2 "12:2. Second²"                                        
-#set $workspace1-2-3 "13:3. Third²"                                         
-#set $workspace1-2-4 "14:4. Fourth²"                                        
-#set $workspace1-2-5 "15:5. Fifth²"                                         
-#set $workspace1-2-6 "16:6. Sixth²"                                         
-#set $workspace1-2-7 "17:7. Seventh²"                                       
-#set $workspace1-2-8 "18:8. Eight²"                                         
-#set $workspace1-2-9 "19:9. Ninth²"
-#set $workspace1-2-0 "20:10. Void²"
+set $workspace1-2 "11:1. Home²"                                          
+set $workspace2-2 "12:2. Second²"                                        
+set $workspace3-2 "13:3. Third²"                                         
+set $workspace4-2 "14:4. Fourth²"                                        
+set $workspace5-2 "15:5. Fifth²"                                         
+set $workspace6-2 "16:6. Sixth²"                                         
+set $workspace7-2 "17:7. Seventh²"                                       
+set $workspace8-2 "18:8. Eight²"                                         
+set $workspace9-2 "19:9. Ninth²"
+set $workspace0-2 "20:10. Void²"
 
-#set $workspace1-3-1 "21:1. Home³"                                          
-#set $workspace1-3-2 "22:2. Second³"                                        
-#set $workspace1-3-3 "23:3. Third³"                                         
-#set $workspace1-3-4 "24:4. Fourth³"                                        
-#set $workspace1-3-5 "25:5. Fifth³"                                         
-#set $workspace1-3-6 "26:6. Sixth³"                                         
-#set $workspace1-3-7 "27:7. Seventh³"                                       
-#set $workspace1-3-8 "28:8. Eight³"                                         
-#set $workspace1-3-9 "29:9. Ninth³"
-#set $workspace1-3-0 "30:10. Void³"
-
-set $workspace1-1-1 "1:Home 1st"
-set $workspace1-1-2 "2:Main 2¹"
-set $workspace1-1-3 "3:Main 3¹"
-set $workspace1-1-4 "4:Main 4¹"
-set $workspace1-1-5 "5:Main 5¹"
-set $workspace1-1-6 "6:Main 6¹"
-set $workspace1-1-7 "7:Main 7¹"
-set $workspace1-1-8 "8:Main 8¹"
-set $workspace1-1-9 "9:Main 9¹"
-set $workspace1-1-0 "10:Main 10¹"
-
-set $workspace1-2-1 "11:Home 2st"
-set $workspace1-2-2 "12:Main 2²"
-set $workspace1-2-3 "13:Main 3²"
-set $workspace1-2-4 "14:Main 4²"
-set $workspace1-2-5 "15:Main 5²"
-set $workspace1-2-6 "16:Main 6²"
-set $workspace1-2-7 "17:Main 7²"
-set $workspace1-2-8 "18:Main 8²"
-set $workspace1-2-9 "19:Main 9²"
-set $workspace1-2-0 "20:Main 10²"
-
-set $workspace1-3-1 "21:Home 3st"
-set $workspace1-3-2 "22:Main 2³"
-set $workspace1-3-3 "23:Main 3³"
-set $workspace1-3-4 "24:Main 4³"
-set $workspace1-3-5 "25:Main 5³"
-set $workspace1-3-6 "26:Main 6³"
-set $workspace1-3-7 "27:Main 7³"
-set $workspace1-3-8 "28:Main 8³"
-set $workspace1-3-9 "29:Main 9³"
-set $workspace1-3-0 "30:Main 10³"
-
-set $workspace2-1-1 "31:Job 1¹"
-set $workspace2-1-2 "32:Job 2¹"
-set $workspace2-1-3 "33:Job 3¹"
-set $workspace2-1-4 "34:Job 4¹"
-set $workspace2-1-5 "35:Job 5¹"
-set $workspace2-1-6 "36:Job 6¹"
-set $workspace2-1-7 "37:Job 7¹"
-set $workspace2-1-8 "38:Job 8¹"
-set $workspace2-1-9 "39:Job 9¹"
-set $workspace2-1-0 "40:Job 10¹"
-
-set $workspace2-2-1 "41:Job 1²"
-set $workspace2-2-2 "42:Job 2²"
-set $workspace2-2-3 "43:Job 3²"
-set $workspace2-2-4 "44:Job 4²"
-set $workspace2-2-5 "45:Job 5²"
-set $workspace2-2-6 "46:Job 6²"
-set $workspace2-2-7 "47:Job 7²"
-set $workspace2-2-8 "48:Job 8²"
-set $workspace2-2-9 "49:Job 9²"
-set $workspace2-2-0 "50:Job 10²"
-
-set $workspace2-3-1 "51:Job 1³"
-set $workspace2-3-2 "52:Job 2³"
-set $workspace2-3-3 "53:Job 3³"
-set $workspace2-3-4 "54:Job 4³"
-set $workspace2-3-5 "55:Job 5³"
-set $workspace2-3-6 "56:Job 6³"
-set $workspace2-3-7 "57:Job 7³"
-set $workspace2-3-8 "58:Job 8³"
-set $workspace2-3-9 "59:Job 9³"
-set $workspace2-3-0 "60:Job 10³"
+set $workspace1-3 "21:1. Home³"                                          
+set $workspace2-3 "22:2. Second³"                                        
+set $workspace3-3 "23:3. Third³"                                         
+set $workspace4-3 "24:4. Fourth³"                                        
+set $workspace5-3 "25:5. Fifth³"                                         
+set $workspace6-3 "26:6. Sixth³"                                         
+set $workspace7-3 "27:7. Seventh³"                                       
+set $workspace8-3 "28:8. Eight³"                                         
+set $workspace9-3 "29:9. Ninth³"
+set $workspace0-3 "30:10. Void³"
 
 #set $workspace1-1 "1. Home"
 #set $workspace2-1 "2. Second"
@@ -263,72 +196,40 @@ set $workspace2-3-0 "60:Job 10³"
 
 
 
+#control monitor output
+workspace $workspace1-1 output $monitor1
+workspace $workspace2-1 output $monitor1
+workspace $workspace3-1 output $monitor1
+workspace $workspace4-1 output $monitor1
+workspace $workspace5-1 output $monitor1
+workspace $workspace6-1 output $monitor1
+workspace $workspace7-1 output $monitor1
+workspace $workspace8-1 output $monitor1
+workspace $workspace9-1 output $monitor1
+workspace $workspace0-1 output $monitor1
+#control monitor output
+workspace $workspace1-2 output $monitor2
+workspace $workspace2-2 output $monitor2
+workspace $workspace3-2 output $monitor2
+workspace $workspace4-2 output $monitor2
+workspace $workspace5-2 output $monitor2
+workspace $workspace6-2 output $monitor2
+workspace $workspace7-2 output $monitor2
+workspace $workspace8-2 output $monitor2
+workspace $workspace9-2 output $monitor2
+workspace $workspace0-2 output $monitor2
 
-workspace $workspace1-1-1 output $monitor1
-workspace $workspace1-1-2 output $monitor1
-workspace $workspace1-1-3 output $monitor1
-workspace $workspace1-1-4 output $monitor1
-workspace $workspace1-1-5 output $monitor1
-workspace $workspace1-1-6 output $monitor1
-workspace $workspace1-1-7 output $monitor1
-workspace $workspace1-1-8 output $monitor1
-workspace $workspace1-1-9 output $monitor1
-workspace $workspace1-1-0 output $monitor1
-
-workspace $workspace1-2-1 output $monitor2
-workspace $workspace1-2-2 output $monitor2
-workspace $workspace1-2-3 output $monitor2
-workspace $workspace1-2-4 output $monitor2
-workspace $workspace1-2-5 output $monitor2
-workspace $workspace1-2-6 output $monitor2
-workspace $workspace1-2-7 output $monitor2
-workspace $workspace1-2-8 output $monitor2
-workspace $workspace1-2-9 output $monitor2
-workspace $workspace1-2-0 output $monitor2
-
-workspace $workspace1-3-1 output $monitor3
-workspace $workspace1-3-2 output $monitor3
-workspace $workspace1-3-3 output $monitor3
-workspace $workspace1-3-4 output $monitor3
-workspace $workspace1-3-5 output $monitor3
-workspace $workspace1-3-6 output $monitor3
-workspace $workspace1-3-7 output $monitor3
-workspace $workspace1-3-8 output $monitor3
-workspace $workspace1-3-9 output $monitor3
-workspace $workspace1-3-0 output $monitor3
-
-workspace $workspace2-1-1 output $monitor1
-workspace $workspace2-1-2 output $monitor1
-workspace $workspace2-1-3 output $monitor1
-workspace $workspace2-1-4 output $monitor1
-workspace $workspace2-1-5 output $monitor1
-workspace $workspace2-1-6 output $monitor1
-workspace $workspace2-1-7 output $monitor1
-workspace $workspace2-1-8 output $monitor1
-workspace $workspace2-1-9 output $monitor1
-workspace $workspace2-1-0 output $monitor1
-
-workspace $workspace2-2-1 output $monitor2
-workspace $workspace2-2-2 output $monitor2
-workspace $workspace2-2-3 output $monitor2
-workspace $workspace2-2-4 output $monitor2
-workspace $workspace2-2-5 output $monitor2
-workspace $workspace2-2-6 output $monitor2
-workspace $workspace2-2-7 output $monitor2
-workspace $workspace2-2-8 output $monitor2
-workspace $workspace2-2-9 output $monitor2
-workspace $workspace2-2-0 output $monitor2
-
-workspace $workspace2-3-1 output $monitor3
-workspace $workspace2-3-2 output $monitor3
-workspace $workspace2-3-3 output $monitor3
-workspace $workspace2-3-4 output $monitor3
-workspace $workspace2-3-5 output $monitor3
-workspace $workspace2-3-6 output $monitor3
-workspace $workspace2-3-7 output $monitor3
-workspace $workspace2-3-8 output $monitor3
-workspace $workspace2-3-9 output $monitor3
-workspace $workspace2-3-0 output $monitor3
+#control monitor output
+workspace $workspace1-3 output $monitor3
+workspace $workspace2-3 output $monitor3
+workspace $workspace3-3 output $monitor3
+workspace $workspace4-3 output $monitor3
+workspace $workspace5-3 output $monitor3
+workspace $workspace6-3 output $monitor3
+workspace $workspace7-3 output $monitor3
+workspace $workspace8-3 output $monitor3
+workspace $workspace9-3 output $monitor3
+workspace $workspace0-3 output $monitor3
 
 ## Domain
 
@@ -340,16 +241,16 @@ set $script_path /home/geraldo/.config/i3/meta_workspaces.py
 
 ################################ CLASSIC #######################################
 # switch to workspace
-#bindsym $mod+1 workspace number $workspace1-1-1, workspace number $workspace1-3-1, focus output $monitor1, workspace number $workspace1-2-1, focus output $monitor1;
-#bindsym $mod+2 workspace number $workspace1-1-2, workspace number $workspace1-3-2, focus output $monitor1, workspace number $workspace1-2-2, focus output $monitor1;
-#bindsym $mod+3 workspace number $workspace1-1-3, workspace number $workspace1-3-3, focus output $monitor1, workspace number $workspace1-2-3, focus output $monitor1;
-#bindsym $mod+4 workspace number $workspace1-1-4, workspace number $workspace1-3-4, focus output $monitor1, workspace number $workspace1-2-4, focus output $monitor1;
-#bindsym $mod+5 workspace number $workspace1-1-5, workspace number $workspace1-3-5, focus output $monitor1, workspace number $workspace1-2-5, focus output $monitor1;
-#bindsym $mod+6 workspace number $workspace1-1-6, workspace number $workspace1-3-6, focus output $monitor1, workspace number $workspace1-2-6, focus output $monitor1;
-#bindsym $mod+7 workspace number $workspace1-1-7, workspace number $workspace1-3-7, focus output $monitor1, workspace number $workspace1-2-7, focus output $monitor1;
-#bindsym $mod+8 workspace number $workspace1-1-8, workspace number $workspace1-3-8, focus output $monitor1, workspace number $workspace1-2-8, focus output $monitor1;
-#bindsym $mod+9 workspace number $workspace1-1-9, workspace number $workspace1-3-9, focus output $monitor1, workspace number $workspace1-2-9, focus output $monitor1;
-#bindsym $mod+0 workspace number $workspace1-1-0, workspace number $workspace1-3-0, focus output $monitor1, workspace number $workspace1-2-0, focus output $monitor1;
+bindsym $mod+1 workspace number $workspace1-1, workspace number $workspace1-3, focus output $monitor1, workspace number $workspace1-2, focus output $monitor1;
+bindsym $mod+2 workspace number $workspace2-1, workspace number $workspace2-3, focus output $monitor1, workspace number $workspace2-2, focus output $monitor1;
+bindsym $mod+3 workspace number $workspace3-1, workspace number $workspace3-3, focus output $monitor1, workspace number $workspace3-2, focus output $monitor1;
+bindsym $mod+4 workspace number $workspace4-1, workspace number $workspace4-3, focus output $monitor1, workspace number $workspace4-2, focus output $monitor1;
+bindsym $mod+5 workspace number $workspace5-1, workspace number $workspace5-3, focus output $monitor1, workspace number $workspace5-2, focus output $monitor1;
+bindsym $mod+6 workspace number $workspace6-1, workspace number $workspace6-3, focus output $monitor1, workspace number $workspace6-2, focus output $monitor1;
+bindsym $mod+7 workspace number $workspace7-1, workspace number $workspace7-3, focus output $monitor1, workspace number $workspace7-2, focus output $monitor1;
+bindsym $mod+8 workspace number $workspace8-1, workspace number $workspace8-3, focus output $monitor1, workspace number $workspace8-2, focus output $monitor1;
+bindsym $mod+9 workspace number $workspace9-1, workspace number $workspace9-3, focus output $monitor1, workspace number $workspace9-2, focus output $monitor1;
+bindsym $mod+0 workspace number $workspace0-1, workspace number $workspace0-3, focus output $monitor1, workspace number $workspace0-2, focus output $monitor1;
 
 #bindsym $mod+1 workspace number $workspace1-1, focus output $monitor1, workspace number $workspace1-2, focus output $monitor1;
 #bindsym $mod+2 workspace number $workspace2-1, focus output $monitor1, workspace number $workspace2-2, focus output $monitor1;
@@ -363,64 +264,64 @@ set $script_path /home/geraldo/.config/i3/meta_workspaces.py
 #bindsym $mod+0 workspace number $workspace0-1, focus output $monitor1, workspace number $workspace0-2, focus output $monitor1;
 
  #move focused container to workspace
-#bindsym $mod+Shift+1 move container to workspace number $workspace1-1-1
-#bindsym $mod+Shift+2 move container to workspace number $workspace1-1-2
-#bindsym $mod+Shift+3 move container to workspace number $workspace1-1-3
-#bindsym $mod+Shift+4 move container to workspace number $workspace1-1-4
-#bindsym $mod+Shift+5 move container to workspace number $workspace1-1-5
-#bindsym $mod+Shift+6 move container to workspace number $workspace1-1-6
-#bindsym $mod+Shift+7 move container to workspace number $workspace1-1-7
-#bindsym $mod+Shift+8 move container to workspace number $workspace1-1-8
-#bindsym $mod+Shift+9 move container to workspace number $workspace1-1-9
-#bindsym $mod+Shift+0 move container to workspace number $workspace1-1-0
+bindsym $mod+Shift+1 move container to workspace number $workspace1-1
+bindsym $mod+Shift+2 move container to workspace number $workspace2-1
+bindsym $mod+Shift+3 move container to workspace number $workspace3-1
+bindsym $mod+Shift+4 move container to workspace number $workspace4-1
+bindsym $mod+Shift+5 move container to workspace number $workspace5-1
+bindsym $mod+Shift+6 move container to workspace number $workspace6-1
+bindsym $mod+Shift+7 move container to workspace number $workspace7-1
+bindsym $mod+Shift+8 move container to workspace number $workspace8-1
+bindsym $mod+Shift+9 move container to workspace number $workspace9-1
+bindsym $mod+Shift+0 move container to workspace number $workspace0-1
 
-#bindsym Mod4+1 workspace number $workspace1-2-1
-#bindsym Mod4+2 workspace number $workspace1-2-2
-#bindsym Mod4+3 workspace number $workspace1-2-3
-#bindsym Mod4+4 workspace number $workspace1-2-4
-#bindsym Mod4+5 workspace number $workspace1-2-5
-#bindsym Mod4+6 workspace number $workspace1-2-6
-#bindsym Mod4+7 workspace number $workspace1-2-7
-#bindsym Mod4+8 workspace number $workspace1-2-8
-#bindsym Mod4+9 workspace number $workspace1-2-9
-#bindsym Mod4+0 workspace number $workspace1-2-0
-
-
-## move focused container to workspace
-#bindsym Mod4+Shift+1 move container to workspace number $workspace1-2-1
-#bindsym Mod4+Shift+2 move container to workspace number $workspace1-2-2
-#bindsym Mod4+Shift+3 move container to workspace number $workspace1-2-3
-#bindsym Mod4+Shift+4 move container to workspace number $workspace1-2-4
-#bindsym Mod4+Shift+5 move container to workspace number $workspace1-2-5
-#bindsym Mod4+Shift+6 move container to workspace number $workspace1-2-6
-#bindsym Mod4+Shift+7 move container to workspace number $workspace1-2-7
-#bindsym Mod4+Shift+8 move container to workspace number $workspace1-2-8
-#bindsym Mod4+Shift+9 move container to workspace number $workspace1-2-9
-#bindsym Mod4+Shift+0 move container to workspace number $workspace1-2-0
-
-#bindsym Ctrl+1 workspace number $workspace1-3-1
-#bindsym Ctrl+2 workspace number $workspace1-3-2
-#bindsym Ctrl+3 workspace number $workspace1-3-3
-#bindsym Ctrl+4 workspace number $workspace1-3-4
-#bindsym Ctrl+5 workspace number $workspace1-3-5
-#bindsym Ctrl+6 workspace number $workspace1-3-6
-#bindsym Ctrl+7 workspace number $workspace1-3-7
-#bindsym Ctrl+8 workspace number $workspace1-3-8
-#bindsym Ctrl+9 workspace number $workspace1-3-9
-#bindsym Ctrl+0 workspace number $workspace1-3-0
+bindsym Mod4+1 workspace number $workspace1-2
+bindsym Mod4+2 workspace number $workspace2-2
+bindsym Mod4+3 workspace number $workspace3-2
+bindsym Mod4+4 workspace number $workspace4-2
+bindsym Mod4+5 workspace number $workspace5-2
+bindsym Mod4+6 workspace number $workspace6-2
+bindsym Mod4+7 workspace number $workspace7-2
+bindsym Mod4+8 workspace number $workspace8-2
+bindsym Mod4+9 workspace number $workspace9-2
+bindsym Mod4+0 workspace number $workspace0-2
 
 
-## move focused container to workspace
-#bindsym Ctrl+Shift+1 move container to workspace number $workspace1-3-1
-#bindsym Ctrl+Shift+2 move container to workspace number $workspace1-3-2
-#bindsym Ctrl+Shift+3 move container to workspace number $workspace1-3-3
-#bindsym Ctrl+Shift+4 move container to workspace number $workspace1-3-4
-#bindsym Ctrl+Shift+5 move container to workspace number $workspace1-3-5
-#bindsym Ctrl+Shift+6 move container to workspace number $workspace1-3-6
-#bindsym Ctrl+Shift+7 move container to workspace number $workspace1-3-7
-#bindsym Ctrl+Shift+8 move container to workspace number $workspace1-3-8
-#bindsym Ctrl+Shift+9 move container to workspace number $workspace1-3-9
-#bindsym Ctrl+Shift+0 move container to workspace number $workspace1-3-0
+# move focused container to workspace
+bindsym Mod4+Shift+1 move container to workspace number $workspace1-2
+bindsym Mod4+Shift+2 move container to workspace number $workspace2-2
+bindsym Mod4+Shift+3 move container to workspace number $workspace3-2
+bindsym Mod4+Shift+4 move container to workspace number $workspace4-2
+bindsym Mod4+Shift+5 move container to workspace number $workspace5-2
+bindsym Mod4+Shift+6 move container to workspace number $workspace6-2
+bindsym Mod4+Shift+7 move container to workspace number $workspace7-2
+bindsym Mod4+Shift+8 move container to workspace number $workspace8-2
+bindsym Mod4+Shift+9 move container to workspace number $workspace9-2
+bindsym Mod4+Shift+0 move container to workspace number $workspace0-2
+
+bindsym Ctrl+1 workspace number $workspace1-3
+bindsym Ctrl+2 workspace number $workspace2-3
+bindsym Ctrl+3 workspace number $workspace3-3
+bindsym Ctrl+4 workspace number $workspace4-3
+bindsym Ctrl+5 workspace number $workspace5-3
+bindsym Ctrl+6 workspace number $workspace6-3
+bindsym Ctrl+7 workspace number $workspace7-3
+bindsym Ctrl+8 workspace number $workspace8-3
+bindsym Ctrl+9 workspace number $workspace9-3
+bindsym Ctrl+0 workspace number $workspace0-3
+
+
+# move focused container to workspace
+bindsym Ctrl+Shift+1 move container to workspace number $workspace1-3
+bindsym Ctrl+Shift+2 move container to workspace number $workspace2-3
+bindsym Ctrl+Shift+3 move container to workspace number $workspace3-3
+bindsym Ctrl+Shift+4 move container to workspace number $workspace4-3
+bindsym Ctrl+Shift+5 move container to workspace number $workspace5-3
+bindsym Ctrl+Shift+6 move container to workspace number $workspace6-3
+bindsym Ctrl+Shift+7 move container to workspace number $workspace7-3
+bindsym Ctrl+Shift+8 move container to workspace number $workspace8-3
+bindsym Ctrl+Shift+9 move container to workspace number $workspace9-3
+bindsym Ctrl+Shift+0 move container to workspace number $workspace0-3
 
 
 ########## Meta workspaces: ##############
@@ -493,89 +394,89 @@ set $script_path /home/geraldo/.config/i3/meta_workspaces.py
 #set $workspace9-3 "59:Job³: 9"
 #set $workspace0-3 "60:Job³: 10"
 
-bindsym $mod+1 exec "python3 $script_path -w 1 -mn 1"
-bindsym $mod+2 exec "python3 $script_path -w 2 -mn 1"
-bindsym $mod+3 exec "python3 $script_path -w 3 -mn 1"
-bindsym $mod+4 exec "python3 $script_path -w 4 -mn 1"
-bindsym $mod+5 exec "python3 $script_path -w 5 -mn 1"
-bindsym $mod+6 exec "python3 $script_path -w 6 -mn 1"
-bindsym $mod+7 exec "python3 $script_path -w 7 -mn 1"
-bindsym $mod+8 exec "python3 $script_path -w 8 -mn 1"
-bindsym $mod+9 exec "python3 $script_path -w 9 -mn 1"
-bindsym $mod+0 exec "python3 $script_path -w 10 -mn 1"
+#bindsym $mod+1 exec "python3 $script_path -w 1"
+#bindsym $mod+2 exec "python3 $script_path -w 2"
+#bindsym $mod+3 exec "python3 $script_path -w 3"
+#bindsym $mod+4 exec "python3 $script_path -w 4"
+#bindsym $mod+5 exec "python3 $script_path -w 5"
+#bindsym $mod+6 exec "python3 $script_path -w 6"
+#bindsym $mod+7 exec "python3 $script_path -w 7"
+#bindsym $mod+8 exec "python3 $script_path -w 8"
+#bindsym $mod+9 exec "python3 $script_path -w 9"
+#bindsym $mod+0 exec "python3 $script_path -w 10"
 
-bindsym $mod+Shift+1   exec "python3 $script_path -mw 1 -mn 1"
-bindsym $mod+Shift+2   exec "python3 $script_path -mw 2 -mn 1"
-bindsym $mod+Shift+3   exec "python3 $script_path -mw 3 -mn 1"
-bindsym $mod+Shift+4   exec "python3 $script_path -mw 4 -mn 1"
-bindsym $mod+Shift+5   exec "python3 $script_path -mw 5 -mn 1"
-bindsym $mod+Shift+6   exec "python3 $script_path -mw 6 -mn 1"
-bindsym $mod+Shift+7   exec "python3 $script_path -mw 7 -mn 1"
-bindsym $mod+Shift+8   exec "python3 $script_path -mw 8 -mn 1"
-bindsym $mod+Shift+9   exec "python3 $script_path -mw 9 -mn 1"
-bindsym $mod+Shift+0   exec "python3 $script_path -mw 10 -mn 1"
+#bindsym $mod+Shift+1   exec "python3 $script_path -mw 1"
+#bindsym $mod+Shift+2   exec "python3 $script_path -mw 2"
+#bindsym $mod+Shift+3   exec "python3 $script_path -mw 3"
+#bindsym $mod+Shift+4   exec "python3 $script_path -mw 4"
+#bindsym $mod+Shift+5   exec "python3 $script_path -mw 5"
+#bindsym $mod+Shift+6   exec "python3 $script_path -mw 6"
+#bindsym $mod+Shift+7   exec "python3 $script_path -mw 7"
+#bindsym $mod+Shift+8   exec "python3 $script_path -mw 8"
+#bindsym $mod+Shift+9   exec "python3 $script_path -mw 9"
+#bindsym $mod+Shift+0   exec "python3 $script_path -mw 10"
 
 
 
  ##switch to workspace
-bindsym Mod4+1  exec "python3 $script_path -w 1 -mn 2"
-bindsym Mod4+2  exec "python3 $script_path -w 2 -mn 2"
-bindsym Mod4+3  exec "python3 $script_path -w 3 -mn 2"
-bindsym Mod4+4  exec "python3 $script_path -w 4 -mn 2"
-bindsym Mod4+5  exec "python3 $script_path -w 5 -mn 2"
-bindsym Mod4+6  exec "python3 $script_path -w 6 -mn 2"
-bindsym Mod4+7  exec "python3 $script_path -w 7 -mn 2"
-bindsym Mod4+8  exec "python3 $script_path -w 8 -mn 2"
-bindsym Mod4+9  exec "python3 $script_path -w 9 -mn 2"
-bindsym Mod4+0  exec "python3 $script_path -w 10 -mn 2"
+#bindsym Mod4+1  exec "python3 $script_path -w 11"
+#bindsym Mod4+2  exec "python3 $script_path -w 12"
+#bindsym Mod4+3  exec "python3 $script_path -w 13"
+#bindsym Mod4+4  exec "python3 $script_path -w 14"
+#bindsym Mod4+5  exec "python3 $script_path -w 15"
+#bindsym Mod4+6  exec "python3 $script_path -w 16"
+#bindsym Mod4+7  exec "python3 $script_path -w 17"
+#bindsym Mod4+8  exec "python3 $script_path -w 18"
+#bindsym Mod4+9  exec "python3 $script_path -w 19"
+#bindsym Mod4+0  exec "python3 $script_path -w 20"
 
  ##move focused container to workspace
-bindsym Mod4+Shift+1  exec "python3 $script_path -mw 1 -mn 2"
-bindsym Mod4+Shift+2  exec "python3 $script_path -mw 2 -mn 2"
-bindsym Mod4+Shift+3  exec "python3 $script_path -mw 3 -mn 2"
-bindsym Mod4+Shift+4  exec "python3 $script_path -mw 4 -mn 2"
-bindsym Mod4+Shift+5  exec "python3 $script_path -mw 5 -mn 2"
-bindsym Mod4+Shift+6  exec "python3 $script_path -mw 6 -mn 2"
-bindsym Mod4+Shift+7  exec "python3 $script_path -mw 7 -mn 2"
-bindsym Mod4+Shift+8  exec "python3 $script_path -mw 8 -mn 2"
-bindsym Mod4+Shift+9  exec "python3 $script_path -mw 9 -mn 2"
-bindsym Mod4+Shift+0  exec "python3 $script_path -mw 10 -mn 2"
+#bindsym Mod4+Shift+1  exec "python3 $script_path -mw 11"
+#bindsym Mod4+Shift+2  exec "python3 $script_path -mw 12"
+#bindsym Mod4+Shift+3  exec "python3 $script_path -mw 13"
+#bindsym Mod4+Shift+4  exec "python3 $script_path -mw 14"
+#bindsym Mod4+Shift+5  exec "python3 $script_path -mw 15"
+#bindsym Mod4+Shift+6  exec "python3 $script_path -mw 16"
+#bindsym Mod4+Shift+7  exec "python3 $script_path -mw 17"
+#bindsym Mod4+Shift+8  exec "python3 $script_path -mw 18"
+#bindsym Mod4+Shift+9  exec "python3 $script_path -mw 19"
+#bindsym Mod4+Shift+0  exec "python3 $script_path -mw 20"
 
-bindsym Control+1  exec "python3 $script_path -w 1 -mn 3"
-bindsym Control+2  exec "python3 $script_path -w 2 -mn 3"
-bindsym Control+3  exec "python3 $script_path -w 3 -mn 3"
-bindsym Control+4  exec "python3 $script_path -w 4 -mn 3"
-bindsym Control+5  exec "python3 $script_path -w 5 -mn 3"
-bindsym Control+6  exec "python3 $script_path -w 6 -mn 3"
-bindsym Control+7  exec "python3 $script_path -w 7 -mn 3"
-bindsym Control+8  exec "python3 $script_path -w 8 -mn 3"
-bindsym Control+9  exec "python3 $script_path -w 9 -mn 3"
-bindsym Control+0  exec "python3 $script_path -w 10 -mn 3"
+#bindsym Control+1  exec "python3 $script_path -w 21"
+#bindsym Control+2  exec "python3 $script_path -w 22"
+#bindsym Control+3  exec "python3 $script_path -w 23"
+#bindsym Control+4  exec "python3 $script_path -w 24"
+#bindsym Control+5  exec "python3 $script_path -w 25"
+#bindsym Control+6  exec "python3 $script_path -w 26"
+#bindsym Control+7  exec "python3 $script_path -w 27"
+#bindsym Control+8  exec "python3 $script_path -w 28"
+#bindsym Control+9  exec "python3 $script_path -w 29"
+#bindsym Control+0  exec "python3 $script_path -w 30"
 
 ## move focused container to workspace
-bindsym Control+Shift+1  exec "python3 $script_path -mw 1 -mn 3"
-bindsym Control+Shift+2  exec "python3 $script_path -mw 2 -mn 3"
-bindsym Control+Shift+3  exec "python3 $script_path -mw 3 -mn 3"
-bindsym Control+Shift+4  exec "python3 $script_path -mw 4 -mn 3"
-bindsym Control+Shift+5  exec "python3 $script_path -mw 5 -mn 3"
-bindsym Control+Shift+6  exec "python3 $script_path -mw 6 -mn 3"
-bindsym Control+Shift+7  exec "python3 $script_path -mw 7 -mn 3"
-bindsym Control+Shift+8  exec "python3 $script_path -mw 8 -mn 3"
-bindsym Control+Shift+9  exec "python3 $script_path -mw 9 -mn 3"
-bindsym Control+Shift+0  exec "python3 $script_path -mw 10 -mn 3"
+#bindsym Control+Shift+1  exec "python3 $script_path -mw 21"
+#bindsym Control+Shift+2  exec "python3 $script_path -mw 22"
+#bindsym Control+Shift+3  exec "python3 $script_path -mw 23"
+#bindsym Control+Shift+4  exec "python3 $script_path -mw 24"
+#bindsym Control+Shift+5  exec "python3 $script_path -mw 25"
+#bindsym Control+Shift+6  exec "python3 $script_path -mw 26"
+#bindsym Control+Shift+7  exec "python3 $script_path -mw 27"
+#bindsym Control+Shift+8  exec "python3 $script_path -mw 28"
+#bindsym Control+Shift+9  exec "python3 $script_path -mw 29"
+#bindsym Control+Shift+0  exec "python3 $script_path -mw 30"
 
  ##change metaworkspace
-#bindsym Control+Tab exec "python3 $script_path -sm"
-bindsym mod3+1 exec "python3 $script_path -m 1"
-bindsym mod3+2 exec "python3 $script_path -m 2"
-#bindsym mod3+3 exec "python3 $script_path -m 3"
-#bindsym mod3+4 exec "python3 $script_path -m 4"
-#bindsym mod3+5 exec "python3 $script_path -m 5"
-#bindsym mod3+6 exec "python3 $script_path -m 6"
-#bindsym mod3+7 exec "python3 $script_path -m 7"
-#bindsym mod3+8 exec "python3 $script_path -m 8"
-#bindsym mod3+9 exec "python3 $script_path -m 9"
-#bindsym mod3+0 exec "python3 $script_path -m 10"
+##bindsym Control+Tab exec "python3 $script_path -sm"
+#bindsym Home+1 exec "python3 $script_path -m 1"
+#bindsym Home+2 exec "python3 $script_path -m 2"
+#bindsym Home+3 exec "python3 $script_path -m 3"
+#bindsym Home+4 exec "python3 $script_path -m 4"
+#bindsym Home+5 exec "python3 $script_path -m 5"
+#bindsym Home+6 exec "python3 $script_path -m 6"
+#bindsym Home+7 exec "python3 $script_path -m 7"
+#bindsym Home+8 exec "python3 $script_path -m 8"
+#bindsym Home+9 exec "python3 $script_path -m 9"
+#bindsym Home+0 exec "python3 $script_path -m 10"
 
 
 # reload the configuration file
@@ -788,4 +689,3 @@ mode  "Passthrough Mode - Press Alt+F12 to exit" {
 }
 bindsym $mod+F12 mode "Passthrough Mode - Press Alt+F12 to exit"
 for_window [class="Godot_Engine" instance="Portaria"] floating enable
-bindsym $mod+t sticky toggle

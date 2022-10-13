@@ -64,6 +64,7 @@ autocmd filetype css setlocal equalprg=csstidy\ -\ --silent=true
 autocmd BufWritePost *.tex silent! execute "!smartLatex % >/dev/null 2>&1" | redraw!
 autocmd BufEnter *.tex silent! execute ":set tw=80" | redraw!
 autocmd BufWritePost *.md silent! execute "!quickMd % >/dev/null 2>&1" | redraw!
+autocmd BufWritePost * silent! execute "!scpDeployAlfa % >/dev/null 2>&1" | redraw!
 autocmd BufWritePost *.ly silent! execute "!lilypond % >/dev/null 2>&1" | redraw!
 autocmd BufWritePost *.li silent! execute "!compileSmartLilypond.py % >/dev/null 2>&1" | redraw!
 autocmd filetype html UltiSnipsAddFiletypes html

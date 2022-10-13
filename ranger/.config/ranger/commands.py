@@ -24,7 +24,7 @@ class new_term(Command):
             target_filename = self.fm.thisfile.path
 
         #self.fm.notify("Let's edit the file " + target_filename + "!")
-        os.system("st &")
+        os.system("alacritty &")
 
         """if not os.path.exists(target_filename):
             self.fm.notify("The given file does not exist!", bad=True)

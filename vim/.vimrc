@@ -12,6 +12,8 @@ Plug 'lervag/vimtex'
 Plug 'junegunn/goyo.vim'
 Plug 'scrooloose/nerdcommenter'
 Plug 'mileszs/ack.vim'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.0' }
 "Plug 'airblade/vim-gitgutter'
 "Plug 'powerline/powerline'
 "Plug 'neoclide/coc.nvim', {'branch': 'release'}
@@ -123,6 +125,7 @@ set number relativenumber
 "RefreshBuffersNames()
 "--------- MAPS ---------
 
+nnoremap <leader>ff <cmd>Telescope find_files<cr>
 nnoremap <F1> :noautocmd w<cr>
 map <F10> :Goyo <cr>
 "map k gk

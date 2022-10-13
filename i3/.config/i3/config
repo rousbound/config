@@ -677,7 +677,7 @@ bindsym Mod4+s exec  --no-startup-id alacritty -e "gotoScriptsDir"
 #bindsym Mod4+m exec  --no-startup-id alacritty -e "prettyManuals"
 #bindsym Mod4+w exec WeatherForecast
 bindsym Mod4+w exec --no-startup-id quickWindow
-bindsym Mod4+e exec --no-startup-id alacritty -e vim ~/Dropbox/Texto/Fitness/diary_2021.txt 
+bindsym Mod4+e exec --no-startup-id alacritty -e nvim ~/Dropbox/Texto/Fitness/diary_2021.txt 
 bindsym Mod4+t exec --no-startup-id alacritty -e "menuSsh"
 bindsym Mod4+c exec --no-startup-id menuClasses
 bindsym Mod4+Shift+b exec --no-startup-id menuLibrary

@@ -159,6 +159,8 @@ bindkey '^e' edit-command-line
 
 alias r='ranger'
 alias ls='ls --color=auto'
+alias v='nvim'
+alias vim='nvim'
 #alias vim='nvim'
 
 
@@ -167,3 +169,5 @@ alias ls='ls --color=auto'
 
 source ~/Programs/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/Programs/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+
